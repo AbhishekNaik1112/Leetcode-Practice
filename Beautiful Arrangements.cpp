@@ -13,7 +13,7 @@
 // Input: n = 2
 // Output: 2
 // Explanation: 
-// The first beautiful arrangement is [1,2]:
+// The first beautiful arrangement is [1,2]:    
 //     - perm[1] = 1 is divisible by i = 1
 //     - perm[2] = 2 is divisible by i = 2
 // The second beautiful arrangement is [2,1]:

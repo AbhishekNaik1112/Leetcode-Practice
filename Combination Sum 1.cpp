@@ -75,8 +75,8 @@ int main(){
 
     vector<vector<int>> sols = findAll(arr,target);
 
-    for(auto sol:sols){
-        for(auto i:sol){
+    for(auto& sol:sols){
+        for(auto& i:sol){
             cout<<i<<" ";
         }
         cout<<endl;
